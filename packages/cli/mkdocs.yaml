@@ -1,0 +1,7 @@
+site_name: 'SPAship CLI'
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
